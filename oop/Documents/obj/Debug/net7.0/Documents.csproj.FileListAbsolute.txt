@@ -1,0 +1,15 @@
+/Users/gorynych/oop/Documents/bin/Debug/net7.0/Documents
+/Users/gorynych/oop/Documents/bin/Debug/net7.0/Documents.deps.json
+/Users/gorynych/oop/Documents/bin/Debug/net7.0/Documents.runtimeconfig.json
+/Users/gorynych/oop/Documents/bin/Debug/net7.0/Documents.dll
+/Users/gorynych/oop/Documents/bin/Debug/net7.0/Documents.pdb
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/Documents.csproj.AssemblyReference.cache
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/Documents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/Documents.AssemblyInfoInputs.cache
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/Documents.AssemblyInfo.cs
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/Documents.csproj.CoreCompileInputs.cache
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/Documents.dll
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/refint/Documents.dll
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/Documents.pdb
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/Documents.genruntimeconfig.cache
+/Users/gorynych/oop/Documents/obj/Debug/net7.0/ref/Documents.dll

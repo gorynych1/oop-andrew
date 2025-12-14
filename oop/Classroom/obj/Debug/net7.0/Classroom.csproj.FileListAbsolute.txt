@@ -1,0 +1,15 @@
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/Classroom.csproj.AssemblyReference.cache
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/Classroom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/Classroom.AssemblyInfoInputs.cache
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/Classroom.AssemblyInfo.cs
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/Classroom.csproj.CoreCompileInputs.cache
+/Users/gorynych/oop/Classroom/bin/Debug/net7.0/Classroom
+/Users/gorynych/oop/Classroom/bin/Debug/net7.0/Classroom.deps.json
+/Users/gorynych/oop/Classroom/bin/Debug/net7.0/Classroom.runtimeconfig.json
+/Users/gorynych/oop/Classroom/bin/Debug/net7.0/Classroom.dll
+/Users/gorynych/oop/Classroom/bin/Debug/net7.0/Classroom.pdb
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/Classroom.dll
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/refint/Classroom.dll
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/Classroom.pdb
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/Classroom.genruntimeconfig.cache
+/Users/gorynych/oop/Classroom/obj/Debug/net7.0/ref/Classroom.dll

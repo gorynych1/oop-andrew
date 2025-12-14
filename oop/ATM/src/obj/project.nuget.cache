@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AB2jNMmLe3WImYk+dLtQKOIvt9Q5SpqlbmQrFyVOvo4OGxTi1fUlaXull4k/y7baxUM7f/ntP//HWgdiV6JwkA==",
+  "success": true,
+  "projectFilePath": "/Users/gorynych/oop/ATM/src/ATM.csproj",
+  "expectedPackageFiles": [
+    "/Users/gorynych/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
