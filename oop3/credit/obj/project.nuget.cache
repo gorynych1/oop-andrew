@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtQT+jWDohufNZPGNg9ltB7siSbJ6nAeVzmAcN1dab937Q+Foep2q4XqkRibu9pc4HrBc7owJEroXmSsOiyhbA==",
+  "success": true,
+  "projectFilePath": "/Users/gorynych/oop-andrew/oop3/credit/credit.csproj",
+  "expectedPackageFiles": [
+    "/Users/gorynych/.nuget/packages/microsoft.codecoverage/17.10.0/microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/microsoft.net.test.sdk/17.10.0/microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/microsoft.testplatform.objectmodel/17.10.0/microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/microsoft.testplatform.testhost/17.10.0/microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/nunit/3.14.0/nunit.3.14.0.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/gorynych/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
